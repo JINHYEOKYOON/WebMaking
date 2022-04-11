@@ -160,7 +160,7 @@ body {
   
   table {
     margin: auto;
-    background-color: #0f1d2e;
+    background-color: #2b2b2c;
     border-collapse: separate;
     border-spacing: 0 2em;
     overflow-x: auto;
@@ -267,11 +267,11 @@ body {
   }
   
   .contact {
-    background-color: #0f1d2e;
+    background-color: #070e18;
   }
   
   .contact-table {
-    background-color: #0f1d2e;
+    background-color: #3f4144;
   }
   
   .text-danger {
@@ -282,7 +282,7 @@ body {
   
   fieldset {
     padding-top: 40px;
-    max-width: 1300px;
+    max-width: 1100px;
     min-width: 400px;
     margin-left: auto;
     margin-right: auto;
